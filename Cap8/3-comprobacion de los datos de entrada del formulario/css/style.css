@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+div{
+    margin: lem;
+}
+
+li {
+    list-style-type : none;
+    margin-bottom: lem;
+}
+
+ol > li{
+    list-style: decimal;
+    margin-bottom: 0;
+}
+
+a{
+    color: #5e78c1;
+    text-decoration: underline;
+}
+
+a:hover{
+
+    color: #b04188;
+    text-decoration: underline;
+}
+
+.error{
+    color: #FF0000;
+}
