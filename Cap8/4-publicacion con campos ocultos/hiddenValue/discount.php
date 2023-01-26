@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
     <head>
-    <meta charset="utf-8">
+        <meta charset="utf-8">
         <title>llenar formulario</title>
         <link href="../../css/style.css" rel="stylesheet">       
     </head>
@@ -36,41 +36,46 @@
             {
                 $errors[] = "割引率が末設定";
             }
+
             if(isset($_POST['tanka']))
             {
                 $tanka = $_POST['tanka'];
+
                 if(!ctype_digit($tanka))
                 {
                     $errors[] = "単価の数値エラー";
                 }
-                else
-                {
-                    $errors[] = "単価が末設定";
-                }
+            }
+            else
+            {
+                $errors[] = "単価が末設定";
             }
         ?>
+
         <?php
             if(isset($_POST['kosu']))
             {
                 $kosu = $_POST['kosu'];
+
                 if(!ctype_digit($kosu))
                 {
                     $errors[] ="個数は正の整数で入力してください。";
                 }
-                else
-                {
-                    $errors[] = "個数が末設定";
-                }
-            } //posiblemente despues lo borre
+            }
+            else
+            {
+                $errors[] = "個数が末設定";
+            }
         ?>
+
         <?php
             if (count($errors) > 0)
             {
                 echo '<ol class= "error">';
                 foreach ($errors as $value) 
-                    {
-                        echo "<li>", $value, "</li>";
-                    }
+                {
+                    echo "<li>", $value, "</li>";
+                }
                 echo "</ol>";
             }
             else 
@@ -88,12 +93,11 @@
                 echo "金額: {$discount_price_fmt}円", "<br>";
                 echo "(割引: {$off_price_fmt}円, {$off_per}% OFF)", "<br>";
             }
-            ?>
-        <form method="post" action="discountForm.php">
-            <ul>
-                <li><input type= "submit" name= "戻る" > </li>
-            </ul>
-        </form>
-        </div>
-    </body>
-</html>
+        ?>
+            <form method="post" action="discountForm.php">
+        <ul>
+            <li><input type="submit" name="戻る"> </li>
+        </ul>
+    </form>
+    </div>
+</body>
