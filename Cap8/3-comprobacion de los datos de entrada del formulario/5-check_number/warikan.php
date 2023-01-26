@@ -8,7 +8,7 @@
     <body>
         <div>
             <?php
-            require_once("../lib_cken/lib/util.php");
+            require_once("lib/util.php");
             
             if(!cken($_POST)){
 
@@ -54,10 +54,12 @@
             ?>
 
             <?php
-            if(count($errors)>0){
+            if(count($errors)>0)
+            {
 
                 echo '<ol class= "error">';
-                foreach ($errors as $value){
+                foreach ($errors as $value)
+                {
                     echo "<li>", $value, "</li>";
                 }
                 echo "</ol>";

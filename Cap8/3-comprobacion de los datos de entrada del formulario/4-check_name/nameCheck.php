@@ -8,7 +8,7 @@
     <body>
         <div>
             <?php
-           require_once("../lib_cken/lib/util.php");
+           require_once("lib/util.php");
 
             if(!cken($_POST)){
 
