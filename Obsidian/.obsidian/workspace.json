@@ -4,47 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "181ad5ed5014c04d",
+        "id": "a1775dfb3fe4ebe6",
         "type": "tabs",
         "children": [
           {
-            "id": "ba2921af21d49eea",
+            "id": "d7b1827249d1bfb2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "IA/Chatbot GPT/0-1.0ChatbotGPT.canvas",
-                "viewState": {
-                  "x": 400.83152392882005,
-                  "y": 1081.5561532388206,
-                  "zoom": -0.14273122477046513,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "8d9036ab81f71c57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IA/Chatbot GPT/4-1.1 Configuración del entorno de entrenamiento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f332ecd6e2e01b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IA/Chatbot GPT/4-1.1 Configuración del entorno de entrenamiento.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 257.5
   },
   "right": {
     "id": "e2a7fa245092deb6",
@@ -113,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA/Chatbot GPT/0-1.0ChatbotGPT.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA/Chatbot GPT/0-1.0ChatbotGPT.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IA/Chatbot GPT/0-1.0ChatbotGPT.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -176,15 +140,15 @@
   },
   "active": "45ece1a699b69532",
   "lastOpenFiles": [
-    "IA/Chatbot GPT/0-RoadMap.md",
-    "IA/Chatbot GPT/1-1.0Recopilar un gran conjunto de datos de entrenamiento.md",
-    "IA/Chatbot GPT/4-1.1 Configuración del entorno de entrenamiento.md",
-    "imagenes/Pasted image 20230125104713.png",
-    "IA/Chatbot GPT/2-1.1 Lista de las tareas de preprocesamiento de texto más comunes.md",
-    "IA/Chatbot GPT/3-1.0 Seleccionar un modelo de lenguaje previamente entrenado..md",
-    "imagenes/Pasted image 20230125104814.png",
-    "IA/Chatbot GPT/0-1.0ChatbotGPT.canvas",
-    "IA/Chatbot GPT/4-1.2 Configurar un sistema de versionado.md",
-    "IA/Chatbot GPT/4-1.0 Como continuar entrenando un modelo pre-entrenado.md"
+    "HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Descuento.md",
+    "HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Untitled 1.md",
+    "HTTP/6-Creacion de formularios y visualizacion de resultados en el mismo archivo/Untitled 3.md",
+    "HTTP/Vocabulario Japones - espanol.md",
+    "IA/Chatbot GPT/4-1.0 Como continuar entrenando un modelo pre-entrenado.md",
+    "IA/Chatbot GPT/4-1.1 Instalar las dependencias necesarias.md",
+    "HTTP/3-comprobacion de los datos de entrada del formulario/10-1.0 formulario HTML que se utiliza para recopilar información de los usuarios. (check_name).md",
+    "Untitled 2.md",
+    "HTTP/3-comprobacion de los datos de entrada del formulario/10-1.1 Verificacion la entrada de un formulario. funcion cken().md",
+    "HTTP/3-comprobacion de los datos de entrada del formulario/10-1.0 CSS.md"
   ]
 }
