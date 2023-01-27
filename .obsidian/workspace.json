@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Cap 8-HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Descuento.md",
-                "mode": "source",
+                "file": "Obsidian/Cap 8-HTTP/Vocabulario Japones - espanol.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ae18ddb778d13af5",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Cap 8-HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Descuento.md",
+                "file": "Obsidian/Cap 8-HTTP/Vocabulario Japones - espanol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Cap 8-HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Descuento.md",
+                "file": "Obsidian/Cap 8-HTTP/Vocabulario Japones - espanol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Cap 8-HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Descuento.md"
+                "file": "Obsidian/Cap 8-HTTP/Vocabulario Japones - espanol.md"
               }
             }
           }
@@ -144,13 +145,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "1fa66722f172907d",
+  "active": "3b4aa48ebc3edb9f",
   "lastOpenFiles": [
     "Obsidian/Cap 8-HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Descuento.md",
-    "Obsidian/Cap 8-HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Descuento.md",
+    "Obsidian/Cap 8-HTTP/1-Conceptos basicos de HTTP/1-Concepto Basico HTTP.md",
     "Obsidian/Cap 8-HTTP/Vocabulario Japones - espanol.md",
     "2023-01-27.md",
     "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.1 funcion cken().md",

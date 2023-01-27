@@ -1,3 +1,6 @@
 [
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "dataview",
+  "obsidian-mind-map",
+  "templater-obsidian"
 ]
