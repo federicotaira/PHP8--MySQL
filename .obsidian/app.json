@@ -2,5 +2,8 @@
   "livePreview": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "./ANEXOS",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "spellcheckLanguages": [
+    "es-AR"
+  ]
 }
