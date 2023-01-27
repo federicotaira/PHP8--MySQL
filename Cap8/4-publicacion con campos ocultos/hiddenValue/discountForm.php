@@ -28,7 +28,7 @@
                     <li><label>個数:
                         <input type="number" name="kosu">
                     </label></li>
-                    <li><input type="submit" name="計算する"></li>
+                    <li><input type="submit" name="Calcular"></li>
                 </ul>
             </form>
         </div>
