@@ -13,9 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.1 funcion cken().md",
+                "file": "Obsidian/Cap 8-HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Descuento.md",
                 "mode": "source",
-                "source": false
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.1 funcion cken().md",
+                "file": "Obsidian/Cap 8-HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Descuento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.1 funcion cken().md",
+                "file": "Obsidian/Cap 8-HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Descuento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.1 funcion cken().md"
+                "file": "Obsidian/Cap 8-HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Descuento.md"
               }
             }
           }
@@ -146,12 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b4aa48ebc3edb9f",
+  "active": "1fa66722f172907d",
   "lastOpenFiles": [
+    "Obsidian/Cap 8-HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Descuento.md",
+    "Obsidian/Cap 8-HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Descuento.md",
+    "Obsidian/Cap 8-HTTP/Vocabulario Japones - espanol.md",
+    "2023-01-27.md",
+    "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.1 funcion cken().md",
     "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.0 funcion cken().md",
     "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/8-1.1 Funcion es().md",
     "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/8-1.0 Funcion es().md",
-    "Obsidian/Cap 8-HTTP/4-Publicacion con campos ocultos/Untitled.md",
-    "Obsidian/Cap 8-HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Untitled 1.md"
+    "Obsidian/Cap 8-HTTP/4-Publicacion con campos ocultos/Untitled.md"
   ]
 }
