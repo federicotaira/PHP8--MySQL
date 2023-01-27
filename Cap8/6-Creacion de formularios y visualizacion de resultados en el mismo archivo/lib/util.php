@@ -1,13 +1,13 @@
 <?php
-function es(array|string $data, string $charset='UTF-8'):mixed
+function es($data, $charset='UTF-8')
 {
     if(is_array($data)){
         return array_map(__METHOD__, $data);
     }else {
-        return htmlspecialchars(string: $data, flags: ENT_QUOTES, encoding: $charset);
+        return htmlspecialchars($data, ENT_QUOTES, $charset);
     }
 }
-function cken(array $data): bool
+function cken($data)
 {
     $result = true;
     foreach ($data as $key => $value) {
@@ -16,12 +16,10 @@ function cken(array $data): bool
         }
         if (!mb_check_encoding($value)) {
             $result = false;
-
             break;
         }
     }
     return $result;
-    
 }
 ?>
 
