@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "18935461e8f96a95",
+    "type": "split",
+    "children": [
+      {
+        "id": "17700c853921784f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b4aa48ebc3edb9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.1 funcion cken().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1939e42b8d4f0572",
+    "type": "split",
+    "children": [
+      {
+        "id": "9131e565fd3fb862",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fa66722f172907d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09a69ef041d5ed6b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62f30e0a9982b9b5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae18ddb778d13af5",
+    "type": "split",
+    "children": [
+      {
+        "id": "726b1f1f0cc8e126",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ccdf000c69ddafb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.1 funcion cken().md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90a2ac610933f88d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.1 funcion cken().md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "543e77477f13212c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18f2739b2a9accbb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.1 funcion cken().md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3b4aa48ebc3edb9f",
+  "lastOpenFiles": [
+    "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.0 funcion cken().md",
+    "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/8-1.1 Funcion es().md",
+    "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/8-1.0 Funcion es().md",
+    "Obsidian/Cap 8-HTTP/4-Publicacion con campos ocultos/Untitled.md",
+    "Obsidian/Cap 8-HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Untitled 1.md"
+  ]
+}
