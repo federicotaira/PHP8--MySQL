@@ -16,3 +16,8 @@
 未設定- Mi settei- No establecido
 計算-calculo
 計算する-calcular
+
+朝食- Chōshoku- desayuno
+タ食 - Ta-shoku - alimento
+食事 - Shokuji -  comida
+食事　に　入力エラーがありました。 - Hubo un error de entrada en la comida.

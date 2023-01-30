@@ -4,37 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "d13ab63321f47a6c",
+        "id": "e265e0493b6d62be",
         "type": "tabs",
         "children": [
           {
-            "id": "6deebca9f6e0bd23",
+            "id": "a24b3ba872466ed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/10-1.0 CSS.md",
-                "mode": "source",
+                "file": "Obsidian/Funciones PHP.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           },
           {
-            "id": "c28ffa5636b17744",
+            "id": "02bc7f6d37a9d61b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/7-1.0 Util.php.md",
+                "file": "Obsidian/Funciones PHP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,6 +72,19 @@
             }
           },
           {
+            "id": "fb3a7db9889f03fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Funciones PHP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "62f30e0a9982b9b5",
             "type": "leaf",
             "state": {
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/7-1.0 Util.php.md",
+                "file": "Obsidian/Funciones PHP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/7-1.0 Util.php.md",
+                "file": "Obsidian/Funciones PHP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/7-1.0 Util.php.md"
+                "file": "Obsidian/Funciones PHP.md"
               }
             }
           },
@@ -173,17 +185,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c28ffa5636b17744",
+  "active": "a24b3ba872466ed2",
   "lastOpenFiles": [
-    "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/10-1.0 CSS.md",
-    "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.0 funcion cken().md",
+    "Obsidian/Cap 9- Diferentes formas de usos/9-2 Usos de casillas de verificacion/Usar casilla de verificacion.md",
     "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/8-1.0 Funcion es().md",
-    "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/7-1.0 Util.php.md",
-    "Obsidian/Cap 8-HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Descuento.md",
-    "Obsidian/Cap 8-HTTP/6-Creacion de formularios y visualizacion de resultados en el mismo archivo/Untitled 3.md",
-    "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/10-1.1 Verificacion la entrada de un formulario. funcion cken().md",
-    "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/10-1.0 formulario HTML que se utiliza para recopilar información de los usuarios. (check_name).md",
-    "Obsidian/Cap 8-HTTP/2-Conceptos basicos del procesamientos de entrada de formularios/1-Post/5- 1.2 Formulario de envio en PHP metodo (POST).md",
-    "Obsidian/Cap 8-HTTP/2-Conceptos basicos del procesamientos de entrada de formularios/1-Post/5- 1.0 Formulario de envío en HTML metodo (POST).md"
+    "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.0 funcion cken().md",
+    "Obsidian/Funciones PHP.md",
+    "Obsidian/Cap 9- Diferentes formas de usos/9-1 Uso de botones de opciones/Usar botones de opcion.md",
+    "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/10-1.0 CSS.md",
+    "Obsidian/Vocabulario Japones - espanol.md",
+    "Obsidian/Cap 9- Diferentes formas de usos/9-7 Uso de campo de fecha/Untitled 2.md",
+    "Obsidian/Cap 9- Diferentes formas de usos/9-4 uso de cuadro de lista/Untitled 1.md",
+    "Obsidian/Cap 9- Diferentes formas de usos/9-1 Uso de botones de opciones/Untitled 1.md"
   ]
 }
