@@ -1,2 +1,4 @@
+
+#PHP 
 HTTP es un protocolo de comunicación utilizado en la World Wide Web para transmitir datos. La comunicación de datos comienza con una solicitud enviada por un cliente (por ejemplo, un navegador web) y termina con una respuesta recibida del servidor web. La estructura de una solicitud y respuesta HTTP incluye una línea de inicio que contiene un método HTTP (como GET o POST) y una URI, encabezados HTTP y un cuerpo opcional. Los códigos de estado de respuesta HTTP indican si una solicitud específica se ha completado con éxito o no. Las respuestas se agrupan en cinco clases: respuestas informativas, respuestas satisfactorias, redirecciones, errores de cliente y errores del servidor. Es posible que se utilice una representación del recurso en la solicitud y la respuesta HTTP.
 

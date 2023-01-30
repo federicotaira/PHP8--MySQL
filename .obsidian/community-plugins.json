@@ -2,5 +2,9 @@
   "cm-editor-syntax-highlight-obsidian",
   "dataview",
   "obsidian-mind-map",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-advanced-slides",
+  "table-editor-obsidian",
+  "calendar",
+  "code-block-copy"
 ]

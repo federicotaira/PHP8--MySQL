@@ -1,3 +1,4 @@
+#PHP 
 Los formularios son una herramienta común en el desarrollo web para recopilar información de los usuarios. El procesamiento de entrada de formulario es el proceso mediante el cual los datos ingresados en un formulario son enviados al servidor para su procesamiento y almacenamiento.
 
 Existen varios conceptos básicos que deben considerarse al procesar la entrada de un formulario:
