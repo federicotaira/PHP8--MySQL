@@ -203,13 +203,13 @@
 
 # DiscountForm.php
 ## 
-Este código es un ejemplo de una página web que ofrece un [[Obsidian/Cap 8-HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Descuento|descuento]] a los clientes que ingresan un código de cupón válido. La página incluye un formulario que permite a los clientes ingresar una cantidad de bienes y un código de cupón.
+Este código es un ejemplo de una página web que ofrece un descuento a los clientes que ingresan un código de cupón válido. La página incluye un formulario que permite a los clientes ingresar una cantidad de bienes y un código de cupón.
 
-La página comienza verificando si hay errores de codificación en los datos enviados en el formulario mediante la función "cken". Luego, se utiliza la función "es" para limpiar los datos recibidos.
+La página comienza verificando si hay errores de codificación en los datos enviados en el formulario mediante la función "[[9-1.0 funcion cken()|cken()]]". Luego, se utiliza la función "[[8-1.0 Funcion es()|es()]]" para limpiar los datos recibidos.
 
 A continuación, se establece una variable "kosu" que se utilizará para almacenar la cantidad de bienes seleccionada por el cliente. Si no se recibe un valor para "kosu" en el formulario, se establece en un valor vacío.
 
-Luego, se incluye un archivo "saleData.php" que contiene dos funciones: "getCouponRate" y "getPrice". Estas funciones se utilizan para obtener el porcentaje de descuento asociado con un código de cupón específico y el precio unitario de un bien específico, respectivamente.
+Luego, se incluye un archivo "[[saleData.php]]" que contiene dos funciones: "getCouponRate" y "getPrice". Estas funciones se utilizan para obtener el porcentaje de descuento asociado con un código de cupón específico y el precio unitario de un bien específico, respectivamente.
 
 A continuación, se establecen dos variables: "couponCode" y "goodsID", que contienen los valores predeterminados para el código de cupón y el ID del bien, respectivamente. Luego, se llama a las funciones "getCouponRate" y "getPrice" para obtener el porcentaje de descuento y el precio unitario. Si alguno de estos valores es nulo (no se encuentra un código de cupón o un ID de bien válido), se muestra un mensaje de error.
 

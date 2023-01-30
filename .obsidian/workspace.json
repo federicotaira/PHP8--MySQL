@@ -4,21 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "17700c853921784f",
+        "id": "d13ab63321f47a6c",
         "type": "tabs",
         "children": [
           {
-            "id": "3b4aa48ebc3edb9f",
+            "id": "6deebca9f6e0bd23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Cap 8-HTTP/Vocabulario Japones - espanol.md",
-                "mode": "preview",
+                "file": "Obsidian/Cap 8-HTTP/6-Creacion de formularios y visualizacion de resultados en el mismo archivo/Untitled 3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            },
+            "group": "a98ba7f27e434912"
+          },
+          {
+            "id": "c28ffa5636b17744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/7-1.0 Util.php.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
+          }
+        ]
+      },
+      {
+        "id": "bd3f1c95d77b1485",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e67a88120e6d9e94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Cap 8-HTTP/6-Creacion de formularios y visualizacion de resultados en el mismo archivo/Untitled 3.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            },
+            "group": "a98ba7f27e434912"
           }
         ]
       }
@@ -86,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Cap 8-HTTP/Vocabulario Japones - espanol.md",
+                "file": "Obsidian/Cap 8-HTTP/6-Creacion de formularios y visualizacion de resultados en el mismo archivo/Untitled 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Cap 8-HTTP/Vocabulario Japones - espanol.md",
+                "file": "Obsidian/Cap 8-HTTP/6-Creacion de formularios y visualizacion de resultados en el mismo archivo/Untitled 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Cap 8-HTTP/Vocabulario Japones - espanol.md"
+                "file": "Obsidian/Cap 8-HTTP/6-Creacion de formularios y visualizacion de resultados en el mismo archivo/Untitled 3.md"
               }
             }
           }
@@ -149,16 +183,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3b4aa48ebc3edb9f",
+  "active": "e67a88120e6d9e94",
   "lastOpenFiles": [
     "Obsidian/Cap 8-HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Descuento.md",
-    "Obsidian/Cap 8-HTTP/1-Conceptos basicos de HTTP/1-Concepto Basico HTTP.md",
-    "Obsidian/Cap 8-HTTP/Vocabulario Japones - espanol.md",
-    "2023-01-27.md",
-    "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.1 funcion cken().md",
     "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.0 funcion cken().md",
-    "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/8-1.1 Funcion es().md",
     "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/8-1.0 Funcion es().md",
-    "Obsidian/Cap 8-HTTP/4-Publicacion con campos ocultos/Untitled.md"
+    "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/7-1.0 Util.php.md",
+    "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/10-1.0 formulario HTML que se utiliza para recopilar información de los usuarios. (check_name).md",
+    "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/10-1.1 Verificacion la entrada de un formulario. funcion cken().md",
+    "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/10-1.0 CSS.md",
+    "Obsidian/Cap 8-HTTP/2-Conceptos basicos del procesamientos de entrada de formularios/3-Get_multibyte/7- 1.1 página web en PHP que recibe una solicitud GET.md",
+    "Obsidian/Cap 8-HTTP/2-Conceptos basicos del procesamientos de entrada de formularios/3-Get_multibyte/7- 1.0  página web en PHP que utiliza un Enlace con una solicitud GET.md",
+    "Obsidian/Cap 8-HTTP/2-Conceptos basicos del procesamientos de entrada de formularios/2-Get/6- 1.2 Formulario de envio en PHP metodo (GET).md"
   ]
 }
