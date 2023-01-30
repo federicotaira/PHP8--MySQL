@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Funciones PHP.md",
+                "file": "Obsidian/Vocabulario Japones - espanol.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Funciones PHP.md",
+                "file": "Obsidian/Vocabulario Japones - espanol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Funciones PHP.md",
+                "file": "Obsidian/Vocabulario Japones - espanol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Funciones PHP.md"
+                "file": "Obsidian/Vocabulario Japones - espanol.md"
               }
             }
           },
@@ -187,15 +187,15 @@
   },
   "active": "a24b3ba872466ed2",
   "lastOpenFiles": [
+    "Obsidian/Funciones PHP.md",
     "Obsidian/Cap 9- Diferentes formas de usos/9-2 Usos de casillas de verificacion/Usar casilla de verificacion.md",
+    "Obsidian/Cap 9- Diferentes formas de usos/9-2 Usos de casillas de verificacion/[Funciones PHP.md",
+    "Obsidian/Cap 9- Diferentes formas de usos/9-1 Uso de botones de opciones/Usar botones de opcion.md",
     "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/8-1.0 Funcion es().md",
     "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.0 funcion cken().md",
-    "Obsidian/Funciones PHP.md",
-    "Obsidian/Cap 9- Diferentes formas de usos/9-1 Uso de botones de opciones/Usar botones de opcion.md",
     "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/10-1.0 CSS.md",
     "Obsidian/Vocabulario Japones - espanol.md",
     "Obsidian/Cap 9- Diferentes formas de usos/9-7 Uso de campo de fecha/Untitled 2.md",
-    "Obsidian/Cap 9- Diferentes formas de usos/9-4 uso de cuadro de lista/Untitled 1.md",
-    "Obsidian/Cap 9- Diferentes formas de usos/9-1 Uso de botones de opciones/Untitled 1.md"
+    "Obsidian/Cap 9- Diferentes formas de usos/9-4 uso de cuadro de lista/Untitled 1.md"
   ]
 }

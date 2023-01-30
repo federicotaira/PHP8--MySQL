@@ -7,6 +7,8 @@ La función comprueba si el parámetro $data es un arreglo o una cadena. Si es u
 ## ccken()
 La función "cken" toma un solo argumento: un array (llamado "data"). La función recorre el array "data" utilizando un bucle "foreach" y verifica si cada valor es un array. Si es un array, se convierte en una cadena utilizando la función "implode". Luego utiliza la función "mb_check_encoding" para verificar si la codificación de cada valor es válida. Si algún valor no tiene una codificación válida, la función devuelve falso. Si todos los valores tienen una codificación válida, devuelve verdadero.
 ## isset()
-La función `isset()` se utiliza para determinar si una variable está establecida y no es `NULL`.
+
+La función `isset` en PHP es una función booleana que verifica si una variable está definida y no es `NULL`. Es decir, verifica si una variable existe y tiene un valor asignado. Devuelve `TRUE` si la variable está definida y tiene un valor, o `FALSE` en caso contrario.
+
 ## checked()
 "La función "checked()" se utiliza para marcar la opción seleccionada en el formulario".
