@@ -76,7 +76,7 @@
                 <select name="meal[]" size= "2" multiple>
                     <option value="desayuno" <?php selected("desayuno", $mealSelected); ?>desayuno> </option>
                     <option value="alimento" <?php selected("alimento", $mealSelected); ?>alimento> </option>
-                </select
+                </select>
             </li>
             <li><span>tour: </span>
                 <select name ="tour[]" size= "3" multiple>
