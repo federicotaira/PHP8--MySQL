@@ -1,4 +1,5 @@
 {
   "newFileLocation": "current",
-  "attachmentFolderPath": "./ANEXOS"
+  "attachmentFolderPath": "./ANEXOS",
+  "livePreview": false
 }
