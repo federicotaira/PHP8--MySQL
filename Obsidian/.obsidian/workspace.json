@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "29f1cd756edcb2ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "181ad5ed5014c04d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba2921af21d49eea",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "IA/Chatbot GPT/0-1.0ChatbotGPT.canvas",
+                "viewState": {
+                  "x": 400.83152392882005,
+                  "y": 1081.5561532388206,
+                  "zoom": -0.14273122477046513,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "8d9036ab81f71c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IA/Chatbot GPT/4-1.1 Configuración del entorno de entrenamiento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f332ecd6e2e01b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IA/Chatbot GPT/4-1.1 Configuración del entorno de entrenamiento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52d2babb7b8ad02a",
+    "type": "split",
+    "children": [
+      {
+        "id": "27477ad48cfd3e4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45ece1a699b69532",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea9e33f8d3b85e82",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e5f9180d5e58baf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e2a7fa245092deb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "998e7b2f9d97190f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "150c18d2707f6b95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IA/Chatbot GPT/0-1.0ChatbotGPT.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52a651c41a0c67c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IA/Chatbot GPT/0-1.0ChatbotGPT.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4398f05a029a1a3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fea698ff116b0982",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IA/Chatbot GPT/0-1.0ChatbotGPT.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "45ece1a699b69532",
+  "lastOpenFiles": [
+    "IA/Chatbot GPT/0-RoadMap.md",
+    "IA/Chatbot GPT/1-1.0Recopilar un gran conjunto de datos de entrenamiento.md",
+    "IA/Chatbot GPT/4-1.1 Configuración del entorno de entrenamiento.md",
+    "imagenes/Pasted image 20230125104713.png",
+    "IA/Chatbot GPT/2-1.1 Lista de las tareas de preprocesamiento de texto más comunes.md",
+    "IA/Chatbot GPT/3-1.0 Seleccionar un modelo de lenguaje previamente entrenado..md",
+    "imagenes/Pasted image 20230125104814.png",
+    "IA/Chatbot GPT/0-1.0ChatbotGPT.canvas",
+    "IA/Chatbot GPT/4-1.2 Configurar un sistema de versionado.md",
+    "IA/Chatbot GPT/4-1.0 Como continuar entrenando un modelo pre-entrenado.md"
+  ]
+}
