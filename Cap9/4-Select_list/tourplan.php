@@ -48,23 +48,23 @@
 
             if (count($diffValue) ===0)
             {
-                $tourChecked = $_POST["tour"];
+                $tourSelect = $_POST["tour"];
             } else{
-                $tourChecked = [];
+                $tourSelect = [];
                 $error[] = "Hubo un error de entrada en el tour.";
             }
         }else {
-            $tourChecked = [];
+            $tourSelect = [];
         }
         
         ?>
 
         <?php
-        function checked(string $value, array $checkedValues)
+        function selected(string $value, array $selectedValues)
         {
-            $isChecked = in_array($value, $checkedValues);
+            $isSelected = in_array($value, $selectedValues);
 
-            if ($isChecked){
+            if ($isSelected){
                 echo "checked";
             }
         }
@@ -73,27 +73,31 @@
         <form method="post" action="<?php echo es($_SERVER['PHP_SELF']); ?>">
         <ul>
             <li><span>Comida: </span>
-                <label><input type="checkbox" name="meal[]" value="desayuno" <?php checked("desayuno", $mealChecked); ?>desayuno> </label>
-                <label><input type="checkbox" name="meal[]" value="alimento" <?php checked("alimento", $mealChecked); ?>alimento> </label>
+                <select name="meal[]" size= "2" multiple>
+                    <option value="desayuno" <?php selected("desayuno", $mealSelected); ?>desayuno> </option>
+                    <option value="alimento" <?php selected("alimento", $mealSelected); ?>alimento> </option>
+                </select
             </li>
             <li><span>tour: </span>
-                <label><input type="checkbox" name="tour[]" value="canoa" <?php checked("canoa", $tourChecked); ?>canoa> </label>
-                <label><input type="checkbox" name="tour[]" value="MTB" <?php checked("MTB", $tourChecked); ?>MTB> </label>
-                <label><input type="checkbox" name="tour[]" value="tolerante" <?php checked("tolerante", $tourChecked); ?>tolerante> </label>
+                <select name ="tour[]" size= "3" multiple>
+                    <option value="canoa" <?php selected("canoa", $tourSelect); ?>canoa> </option>
+                        <option value="MTB" <?php selected("MTB", $tourSelect); ?>MTB> </option>
+                        <option value="tolerante" <?php selected("tolerante", $tourSelect); ?>tolerante> </option>
+                </select>
             </li>
             <li><input type="submit" value="Enviar"> </li>
         </ul>
         </form>        
 
         <?php
-        $isSelected = count($mealChecked) > 0 || count($tourChecked) > 0;
+        $isSelected = count($mealSelected) > 0 || count($tourSelect) > 0;
         
         if ($isSelected)
         {
             echo "<HR>";
 
-            echo "comida: ", implode(" y ", $mealChecked), "<br>";
-            echo "tour: ", implode(" y ", $tourChecked), "<br>";
+            echo "comida: ", implode(" y ", $mealSelected), "<br>";
+            echo "tour: ", implode(" y ", $tourSelect), "<br>";
         }else {
             "<HR>";
             echo "Ninguna seleccion";
