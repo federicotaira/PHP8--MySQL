@@ -2,7 +2,7 @@
 <html lang="es">
     <head>
         <meta charset="utf-8">
-        <title>Uso de casillas de verificacion</title>
+        <title>Uso de cuadro de lista</title>
         <link href="css/style.css" rel="stylesheet">         
     </head>
     <body>
@@ -30,14 +30,14 @@
 
             if (count($diffValue) == 0)
             {
-                $mealChecked = $_POST["meal"];
+                $mealSelected = $_POST["meal"];
             } else {
 
-                $mealChecked = [];
+                $mealSelected = [];
                 $error[] = "Hubo un error de entrada en la comida.";
             }
         }else {
-            $mealChecked = [];
+            $mealSelected = [];
         }
 
         if (isset($_POST["tour"]))
