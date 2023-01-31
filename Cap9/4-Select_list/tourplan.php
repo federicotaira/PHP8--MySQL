@@ -100,7 +100,7 @@
             echo "tour: ", implode(" y ", $tourSelect), "<br>";
         }else {
             "<HR>";
-            echo "Ninguna seleccion";
+            echo "Ninguna selección";
         }
         ?>
 
