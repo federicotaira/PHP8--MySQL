@@ -33,7 +33,7 @@
             } else{
 
                 $sex = "error";
-                $error[] = "[otro sexo] Hubo un error de entrada en el género. ";
+                $error[] = "[error] Hubo un error de entrada en el género. ";
             }            
         } else{
             $isSex = false;
@@ -96,7 +96,8 @@
 
         if ($isSubmited){
             echo "<HR>";
-            echo "usted es {$sex}, estado: {$marriage}";
+
+            echo "usted es「 {$sex}, estado: {$marriage}」";
         }
         ?>
 

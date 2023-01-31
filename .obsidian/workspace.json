@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "374c1f8813f8d762",
+    "id": "e38a45b47aef69e0",
     "type": "split",
     "children": [
       {
-        "id": "13b5432233871f48",
+        "id": "958701d80d900fbe",
         "type": "tabs",
         "children": [
           {
-            "id": "f47f271561c94acd",
+            "id": "d02cc4d8e962c575",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Cap 9- Diferentes formas de usos/9-4 uso de cuadro de lista/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a5140b6a0a1a53cb",
+    "id": "5f10519011c8857d",
     "type": "split",
     "children": [
       {
-        "id": "df949db6f96cdc60",
+        "id": "b501ecd1fbf33b6c",
         "type": "tabs",
         "children": [
           {
-            "id": "4a82835bde688b0f",
+            "id": "fc8ab3f50bbd9a60",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "e1db8bc9ac3847bc",
+            "id": "03b1c1c4b66a4e67",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "662dae1b7f8e84fa",
+            "id": "178e951bb7198a35",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "b771996a60c5d452",
+    "id": "9f1695723f32e663",
     "type": "split",
     "children": [
       {
-        "id": "e5977962a5ea5490",
+        "id": "987af1a96598ed60",
         "type": "tabs",
         "children": [
           {
-            "id": "139cca0f09bea416",
+            "id": "d0ed90f23f827072",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Cap 9- Diferentes formas de usos/9-4 uso de cuadro de lista/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "8ddf913581d2c9b0",
+            "id": "78aee6da1a62903a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Cap 9- Diferentes formas de usos/9-4 uso de cuadro de lista/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3114e26c9db243e2",
+            "id": "d937749d873bfa7b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "cdab24bc38a77f7d",
+            "id": "ddeeee4e973dd690",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian/Cap 9- Diferentes formas de usos/9-4 uso de cuadro de lista/Untitled 1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,6 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f47f271561c94acd",
+  "active": "d02cc4d8e962c575",
   "lastOpenFiles": []
 }
