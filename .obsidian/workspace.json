@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Cap 9- Diferentes formas de usos/9-5 uso de controles deslizantes/Uso de deslizantes.md",
+                "file": "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.0 funcion cken().md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Cap 9- Diferentes formas de usos/9-5 uso de controles deslizantes/Uso de deslizantes.md",
+                "file": "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.0 funcion cken().md",
                 "mode": "preview",
                 "source": true
               }
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 354.5
   },
   "right": {
     "id": "b771996a60c5d452",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Cap 9- Diferentes formas de usos/9-5 uso de controles deslizantes/Uso de deslizantes.md",
+                "file": "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.0 funcion cken().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Cap 9- Diferentes formas de usos/9-5 uso de controles deslizantes/Uso de deslizantes.md",
+                "file": "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.0 funcion cken().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Cap 9- Diferentes formas de usos/9-5 uso de controles deslizantes/Uso de deslizantes.md"
+                "file": "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.0 funcion cken().md"
               }
             }
           }
@@ -166,9 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a82835bde688b0f",
+  "active": "f47f271561c94acd",
   "lastOpenFiles": [
-    "Obsidian/Cap 9- Diferentes formas de usos/9-3 Uso de menu desplegale/Untitled.md",
-    "Obsidian/Cap 9- Diferentes formas de usos/9-4 uso de cuadro de lista/Untitled 1.md"
+    "Obsidian/Cap 8-HTTP/2-Conceptos basicos del procesamientos de entrada de formularios/0-4-Conceptos basicos del procesamiento de entrada de formulario.md",
+    "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/9-1.0 funcion cken().md",
+    "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/8-1.0 Funcion es().md",
+    "Obsidian/Cap 8-HTTP/3-comprobacion de los datos de entrada del formulario/7-1.0 Util.php.md",
+    "Obsidian/Cap 8-HTTP/2-Conceptos basicos del procesamientos de entrada de formularios/3-Get_multibyte/7- 1.0  página web en PHP que utiliza un Enlace con una solicitud GET.md",
+    "Obsidian/Cap 8-HTTP/2-Conceptos basicos del procesamientos de entrada de formularios/3-Get_multibyte/7- 1.1 página web en PHP que recibe una solicitud GET.md",
+    "Obsidian/Cap 8-HTTP/2-Conceptos basicos del procesamientos de entrada de formularios/2-Get/6- 1.2 Formulario de envio en PHP metodo (GET).md",
+    "Obsidian/Cap 8-HTTP/2-Conceptos basicos del procesamientos de entrada de formularios/2-Get/6- 1.0 Formulario de envio metodo (GET).md",
+    "Obsidian/Cap 8-HTTP/2-Conceptos basicos del procesamientos de entrada de formularios/1-Post/5- 1.2 Formulario de envio en PHP metodo (POST).md",
+    "Obsidian/Cap 8-HTTP/2-Conceptos basicos del procesamientos de entrada de formularios/1-Post/5- 1.0 Formulario de envío en HTML metodo (POST).md"
   ]
 }
