@@ -1,0 +1,2 @@
+mb_check_encoding es una función de PHP que verifica si un string está en una codificación de caracteres válida. Devuelve un valor booleano, si es true, el string está en una codificación válida, y si es false, la codificación no es válida.
+La función se utiliza a menudo para detectar y prevenir ataques XSS al validar que los datos ingresados en un formulario estén en una codificación segura antes de almacenarlos en la base de datos o mostrarlos en la página.
