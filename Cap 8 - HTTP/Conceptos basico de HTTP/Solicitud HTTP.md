@@ -1,0 +1,1 @@
+Una solicitud HTTP es un mensaje enviado por un cliente para iniciar una acción en el servidor, que contiene información como el [[Método de envío]] (GET, POST, etc.), la URL y los encabezados de la solicitud. 
