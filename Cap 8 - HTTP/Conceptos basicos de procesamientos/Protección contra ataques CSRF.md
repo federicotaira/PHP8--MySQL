@@ -1,3 +1,0 @@
-![[función htmlspecialchars()]]
-
-
