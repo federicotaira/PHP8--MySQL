@@ -1,10 +1,10 @@
-Este es un código PHP que crea un formulario de radio que permite a los usuarios seleccionar su género y estado civil.
+Este es un código PHP que crea un [[formularios|formulario]] de radio que permite a los usuarios seleccionar su género y estado civil.
 
-1.  Primero, se requiere el archivo "[[7-1.0 Util.php|util.php]]" que contiene una función "[[9-1.0 funcion cken()|cken()]]" para verificar si los datos enviados son de tipo adecuado.
+1.  Primero, se requiere el archivo "[[función cken()#Util.php|Util.php]]" que contiene una función "[[función cken()#Explicacion|cken()]]" para verificar si los datos enviados son de tipo adecuado.
 2.  Luego, se verifica si los datos enviados son válidos mediante la función "cken()".
 3.  Se inicializa la variable $error como un array vacío para almacenar cualquier error que se produzca durante el procesamiento de los datos.
 4.  Se comprueban los valores enviados para "sex" y "marriage" contra las listas de valores permitidos y se almacenan en las variables $sex y $marriage respectivamente.
-5.  La función [[Funciones PHP#|checked()]] se utiliza para marcar la opción seleccionada en el formulario.
+5.  La función [[función checked()|Checked()]] se utiliza para marcar la opción seleccionada en el formulario.
 6.  El formulario se envía y se procesa mediante el uso del método "post".
 7.  Finalmente, se muestra el resultado si los datos enviados son válidos, de lo contrario se muestran los errores.
 ## codigo

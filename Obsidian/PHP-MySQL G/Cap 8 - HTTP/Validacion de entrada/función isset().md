@@ -1,0 +1,1 @@
+La función `isset` en PHP es una función booleana que verifica si una variable está definida y no es `NULL`. Es decir, verifica si una variable existe y tiene un valor asignado. Devuelve `TRUE` si la variable está definida y tiene un valor, o `FALSE` en caso contrario.

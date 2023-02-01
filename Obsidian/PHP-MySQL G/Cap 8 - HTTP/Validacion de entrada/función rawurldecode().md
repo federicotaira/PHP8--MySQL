@@ -1,4 +1,4 @@
- `rawurldecode`  es una [[función de PHP]] que se utiliza para decodificar una cadena de texto codificada previamente con `rawurlencode`.
+ `rawurldecode`  es una [[funciónes de PHP]] que se utiliza para decodificar una cadena de texto codificada previamente con `rawurlencode`.
 
 La función `rawurlencode` codifica una cadena de texto de tal manera que todos los caracteres especiales son reemplazados por una representación codificada en URL. Por ejemplo, los espacios se reemplazan con `%20`.
 

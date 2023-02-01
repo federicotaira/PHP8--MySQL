@@ -1,4 +1,4 @@
- in_array()   es una [[función de PHP]] que se utiliza para determinar si un valor específico se encuentra en un arreglo. Devuelve un valor booleano (TRUE o FALSE) según si el valor específico se encuentra o no en el arreglo. La sintaxis de la función es la siguiente:
+ in_array()   es una [[funciónes de PHP]] que se utiliza para determinar si un valor específico se encuentra en un arreglo. Devuelve un valor booleano (TRUE o FALSE) según si el valor específico se encuentra o no en el arreglo. La sintaxis de la función es la siguiente:
 
 in_array(valor_buscado, arreglo);
 

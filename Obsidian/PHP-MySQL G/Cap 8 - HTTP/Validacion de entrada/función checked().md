@@ -1,0 +1,1 @@
+"La función "checked()" se utiliza para marcar la opción seleccionada en el formulario".

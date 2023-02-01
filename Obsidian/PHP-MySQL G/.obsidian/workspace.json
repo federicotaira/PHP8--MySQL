@@ -14,8 +14,61 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "dd0029b1f3b37ce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cap 8 - HTTP/Validacion de entrada/funciónes de PHP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "89bb375e82793080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cap 9- Diferentes formas de usos/9-6 uso del area de texto/Untitled 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "013952668293b1e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cap 8 - HTTP/Validacion de entrada/funciónes de PHP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "78f35a05578246a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cap 8 - HTTP/Validacion de entrada/función checked().md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 427.5
   },
   "right": {
     "id": "60755c8bed9f1c9a",
@@ -89,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cap 9- Diferentes formas de usos/9-6 uso del area de texto/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cap 9- Diferentes formas de usos/9-6 uso del area de texto/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cap 9- Diferentes formas de usos/9-6 uso del area de texto/Untitled 1.md"
+              }
             }
           },
           {
@@ -159,17 +216,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6b9b9b077185144f",
+  "active": "13d0ce11e7aa6055",
   "lastOpenFiles": [
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Funciones PHP.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 9- Diferentes formas de usos/9-2 Usos de casillas de verificacion/Usar casilla de verificacion.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 9- Diferentes formas de usos/9-1 Uso de botones de opciones/Usar botones de opcion.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Validacion de entrada/función de PHP.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Solicitud y Respuestas HTTP.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Conceptos basicos de procesamientos/Verificacion de la entrada de un formulario PHP(warikan.php).md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Conceptos basicos de procesamientos/formularios.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Conceptos basicos de procesamientos/Conceptos basicos del procesamiento de entrada de formulario.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Conceptos basico de HTTP/Solicitud y Respuestas HTTP.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Conceptos basico de HTTP/Conceptos Basicos HTTP.md"
+    "Cap 9- Diferentes formas de usos/9-5 uso de controles deslizantes/Uso de deslizantes.md",
+    "Cap 9- Diferentes formas de usos/9-4 uso de cuadro de lista/Untitled 1.md",
+    "Cap 9- Diferentes formas de usos/9-3 Uso de menu desplegale/Untitled.md",
+    "Cap 9- Diferentes formas de usos/9-2 Usos de casillas de verificacion/Usar casilla de verificacion.md",
+    "Cap 9- Diferentes formas de usos/9-1 Uso de botones de opciones/Usar botones de opcion.md",
+    "Cap 8 - HTTP/Validacion de entrada/función checked().md",
+    "Cap 8 - HTTP/Validacion de entrada/funciónes de PHP.md",
+    "Cap 9- Diferentes formas de usos/9-1 Uso de botones de opciones/Funciones PHP.md",
+    "Cap 8 - HTTP/Validacion de entrada/función es().md",
+    "Funciones PHP.md"
   ]
 }

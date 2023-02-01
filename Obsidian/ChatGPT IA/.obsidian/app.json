@@ -1,0 +1,12 @@
+{
+  "livePreview": false,
+  "spellcheckLanguages": [
+    "es",
+    "en"
+  ],
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview"
+}

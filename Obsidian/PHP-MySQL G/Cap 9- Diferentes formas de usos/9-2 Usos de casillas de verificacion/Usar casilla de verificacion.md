@@ -4,10 +4,10 @@ Al enviar el formulario, los valores seleccionados se procesan y se muestran en 
 
 El código contiene varios fragmentos de PHP que realizan diferentes tareas:
 
--   La función[[Funciones PHP#ccken()|ccken]] verifica si los datos enviados en el formulario están codificados correctamente y detiene la ejecución del script si hay un error de codificación.
--   La función [[Funciones PHP#es()|es()]] escapa los caracteres especiales en los datos enviados para prevenir ataques XSS.
--   El código verifica [[Funciones PHP#isset()|isset()]] si se han seleccionado opciones de comida y tour, y luego comprueba si los valores seleccionados corresponden a los valores permitidos. Si hay un error de entrada, se almacena un mensaje de error.
--   La función [[Funciones PHP#checked()|checked()]] se utiliza para marcar las casillas de verificación correspondientes con los valores seleccionados.
+-   La función [[función cken()|cken()]] verifica si los datos enviados en el formulario están codificados correctamente y detiene la ejecución del script si hay un error de codificación.
+-   La función [[Cap 8 - HTTP/Validacion de entrada/función es()|es()]] escapa los caracteres especiales en los datos enviados para prevenir ataques XSS.
+-   El código verifica [[función isset()|isset()]] si se han seleccionado opciones de comida y tour, y luego comprueba si los valores seleccionados corresponden a los valores permitidos. Si hay un error de entrada, se almacena un mensaje de error.
+-   La función [[checked()|checked()]] se utiliza para marcar las casillas de verificación correspondientes con los valores seleccionados.
 -   Finalmente, el código muestra los valores seleccionados y cualquier mensaje de error si es necesario.
 ## codigo
 ```PHP
