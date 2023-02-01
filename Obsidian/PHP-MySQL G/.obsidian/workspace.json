@@ -1,34 +1,22 @@
 {
   "main": {
-    "id": "29f1cd756edcb2ad",
+    "id": "ff9addab625a8be8",
     "type": "split",
     "children": [
       {
-        "id": "181ad5ed5014c04d",
+        "id": "c0eed8d9197855e5",
         "type": "tabs",
         "children": [
           {
-            "id": "ba2921af21d49eea",
+            "id": "9be6042c6e51e0b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8d9036ab81f71c57",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4f332ecd6e2e01b7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "das.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -37,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "52d2babb7b8ad02a",
+    "id": "4f9376473793a55c",
     "type": "split",
     "children": [
       {
-        "id": "27477ad48cfd3e4b",
+        "id": "217ef0bed2397fa9",
         "type": "tabs",
         "children": [
           {
-            "id": "45ece1a699b69532",
+            "id": "a2ddf86b822923d8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +43,7 @@
             }
           },
           {
-            "id": "ea9e33f8d3b85e82",
+            "id": "13d33a8930af0b4b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +58,7 @@
             }
           },
           {
-            "id": "3e5f9180d5e58baf",
+            "id": "c2c192c9823152d6",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -84,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "e2a7fa245092deb6",
+    "id": "9477456f71e7cb2f",
     "type": "split",
     "children": [
       {
-        "id": "998e7b2f9d97190f",
+        "id": "a2afc0cb47aaaa5a",
         "type": "tabs",
         "children": [
           {
-            "id": "150c18d2707f6b95",
+            "id": "91e611c3febbd94b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "das.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,18 +97,19 @@
             }
           },
           {
-            "id": "52a651c41a0c67c3",
+            "id": "7ef1e9897c7c7f58",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "das.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4398f05a029a1a3c",
+            "id": "4f10ad75553a88e6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,11 +120,13 @@
             }
           },
           {
-            "id": "fea698ff116b0982",
+            "id": "6e778d06187d28e6",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "das.md"
+              }
             }
           }
         ]
@@ -148,23 +140,12 @@
     "hiddenItems": {
       "switcher:Abrir quick switcher": false,
       "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "canvas:Create new canvas": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "45ece1a699b69532",
-  "lastOpenFiles": [
-    "IA/Chatbot GPT/0-RoadMap.md",
-    "IA/Chatbot GPT/1-1.0Recopilar un gran conjunto de datos de entrenamiento.md",
-    "IA/Chatbot GPT/4-1.1 Configuración del entorno de entrenamiento.md",
-    "imagenes/Pasted image 20230125104713.png",
-    "IA/Chatbot GPT/2-1.1 Lista de las tareas de preprocesamiento de texto más comunes.md",
-    "IA/Chatbot GPT/3-1.0 Seleccionar un modelo de lenguaje previamente entrenado..md",
-    "imagenes/Pasted image 20230125104814.png",
-    "IA/Chatbot GPT/0-1.0ChatbotGPT.canvas",
-    "IA/Chatbot GPT/4-1.2 Configurar un sistema de versionado.md",
-    "IA/Chatbot GPT/4-1.0 Como continuar entrenando un modelo pre-entrenado.md"
-  ]
+  "active": "9be6042c6e51e0b7",
+  "lastOpenFiles": []
 }
