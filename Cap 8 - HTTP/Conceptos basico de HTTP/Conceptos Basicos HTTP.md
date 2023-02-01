@@ -1,0 +1,5 @@
+# HTTP
+Es un protocolo de [[Solicitud y Respuestas HTTP|comunicacion]] utilizado para transmitir datos. Se basa en unos conceptos básicos como el concepto de recursos y URIs, una estructura sencilla de mensajes y una arquitectura de cliente-servidor. 
+HTML es el lenguaje utilizado para estructurar y desplegar una página web y sus contenidos. Entre las tareas básicas periódicas en informática se encuentran [[mantener el sistema operativo]] y[[ las aplicaciones actualizadas]], [[desinstalar software no utilizado]] y borrar archivos que no se necesitan. Los software más usados donde se requieren habilidades y conocimientos son software de contabilidad, habilidades de CRM, y herramientas de planificación de recursos empresariales.
+# [[PHP]]
+es un lenguaje de programación que se utiliza para desarrollar aplicaciones web. Una intranet es una red interna de una organización que utiliza el mismo protocolo TCP/IP que Internet y que permite la comunicación interna dentro de la empresa. HTTPS es un protocolo seguro que utiliza HTTP con encriptación para proteger la privacidad de la información transmitida.
