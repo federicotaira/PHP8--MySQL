@@ -6,19 +6,18 @@
     </head>
     <body>
         <?php
-        $color="red";
+        $color = "red";
+        switch ($color) {
+            case "green":
+                echo "緑色は120円です。<br>";
+                break;
+            case "red":
+                echo "赤色は150円です。<br>";
+                break;
+            default:
+                echo "その他の色は100円です。<br>";
+                break;
+        }
         ?>
-    
-    <?php switch($color) : ?>
-<?php case "green" : ?>
-        緑色は120円です。<br>
-    <?php break; ?>
-<?php case"red":?>
-        赤色は150円です。<br>
-    <?php break; ?>
-<?php default: ?>
-        そ他の色は100円です。<br>
-    <?php break; ?>
-<?php endswitch; ?>
     </body>
 </html>
