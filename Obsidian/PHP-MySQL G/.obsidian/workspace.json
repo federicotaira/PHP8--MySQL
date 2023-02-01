@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "ff9addab625a8be8",
+    "id": "0e0b7fc63aa7bec5",
     "type": "split",
     "children": [
       {
-        "id": "c0eed8d9197855e5",
+        "id": "9e7c0bab02b47bdd",
         "type": "tabs",
         "children": [
           {
-            "id": "9be6042c6e51e0b7",
+            "id": "6b9b9b077185144f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "das.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4f9376473793a55c",
+    "id": "81904ed3b133eb1d",
     "type": "split",
     "children": [
       {
-        "id": "217ef0bed2397fa9",
+        "id": "9ea16d7e48952e90",
         "type": "tabs",
         "children": [
           {
-            "id": "a2ddf86b822923d8",
+            "id": "13d0ce11e7aa6055",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "13d33a8930af0b4b",
+            "id": "56f65571366aac86",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "c2c192c9823152d6",
+            "id": "77a28196d3cc6daf",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +68,27 @@
     "width": 300
   },
   "right": {
-    "id": "9477456f71e7cb2f",
+    "id": "60755c8bed9f1c9a",
     "type": "split",
     "children": [
       {
-        "id": "a2afc0cb47aaaa5a",
+        "id": "83d480c11183a946",
         "type": "tabs",
         "children": [
           {
-            "id": "91e611c3febbd94b",
+            "id": "4825c1ec53983ab2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "13db95783049b0e8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "das.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +100,18 @@
             }
           },
           {
-            "id": "7ef1e9897c7c7f58",
+            "id": "bc1c0db392b26ba5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "das.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4f10ad75553a88e6",
+            "id": "be933755aa2e04df",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,16 +122,23 @@
             }
           },
           {
-            "id": "6e778d06187d28e6",
+            "id": "30cfcb85492ff958",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "das.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "2dc9f13471e6d587",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -143,9 +152,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "9be6042c6e51e0b7",
-  "lastOpenFiles": []
+  "active": "6b9b9b077185144f",
+  "lastOpenFiles": [
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Funciones PHP.md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 9- Diferentes formas de usos/9-2 Usos de casillas de verificacion/Usar casilla de verificacion.md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 9- Diferentes formas de usos/9-1 Uso de botones de opciones/Usar botones de opcion.md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Validacion de entrada/función de PHP.md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Solicitud y Respuestas HTTP.md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Conceptos basicos de procesamientos/Verificacion de la entrada de un formulario PHP(warikan.php).md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Conceptos basicos de procesamientos/formularios.md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Conceptos basicos de procesamientos/Conceptos basicos del procesamiento de entrada de formulario.md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Conceptos basico de HTTP/Solicitud y Respuestas HTTP.md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Conceptos basico de HTTP/Conceptos Basicos HTTP.md"
+  ]
 }
