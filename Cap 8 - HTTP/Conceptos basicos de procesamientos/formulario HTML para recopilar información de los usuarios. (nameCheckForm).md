@@ -40,7 +40,7 @@
 La primera línea especifica que es un documento [[HTML5]] y el lenguaje del documento es japonés. 
 La siguiente línea especifica la codificación de caracteres utilizada en el documento como "UTF-8".
 
-Luego, se vincula un archivo [[CSS]] (Cascading Style Sheets) llamado "style.css" que se encuentra en la carpeta "css" que esta en una carpeta anterior a la carpeta actual con la ruta "../../css/style.css" para dar estilo al formulario.
+Luego, se vincula un archivo [[CSS(Cascading Style Sheets)]] (Cascading Style Sheets) llamado "style.css" que se encuentra en la carpeta "css" que esta en una carpeta anterior a la carpeta actual con la ruta "../../css/style.css" para dar estilo al formulario.
 
 La estructura principal del formulario es una etiqueta [[etiqueta#`<form>`|`<form>`]] con un atributo  [[Método de envío|method]]="[[Formulario de envío (POST)|POST]]" y action="nameCheck.php", lo que significa que cuando se envía el formulario, los datos se enviarán al servidor a través del método POST y se procesarán en el archivo `nameCheck.php`.
 

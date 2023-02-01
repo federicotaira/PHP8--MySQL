@@ -3,7 +3,6 @@ Esto puede ser útil para asegurarse de que la información enviada es válida, 
 La validación en el lado del servidor se realiza utilizando [[función de PHP|funciones de PHP]].
 Ejemplos:
 
-[[Verificacion la entrada de un formulario. funcion cken()]]
 
 
 

@@ -97,14 +97,22 @@
 </html>
 ```
 ## Explicar
-La primera parte del código incluye la declaración de tipo de documento HTML y la definición de la estructura básica de la página web.
-La etiqueta `<html lang="ja">` establece que el idioma de la página web es japonés. 
-La etiqueta [[etiqueta#`<meta charset="utf-8">`|`<meta charset="utf-8">`]] establece la codificación de caracteres en UTF-8, que es un estándar universal para la representación de caracteres.
 
-El código PHP en la página verifica la entrada del formulario antes de procesarla. La primera parte incluye una llamada a la función [[función cken()#Util.php|cken()]] para verificar si el formulario ha sido enviado correctamente. Si no se ha enviado correctamente, la página muestra un mensaje de error con la codificación esperada.
+este código verifica la entrada de un formulario para asegurar que los datos recibidos estén en la codificación correcta y que se haya ingresado un valor para el campo "name". Si se encuentra algún error, se muestra un mensaje de error y se presenta un botón para regresar al formulario anterior. Si no se encuentra ningún error, se muestra un mensaje de bienvenida con el nombre ingresado.
 
-Luego, el código verifica si el campo "name" del formulario ha sido enviado y si está vacío. Si el campo está vacío o no se ha enviado, se establece la variable `$isError` en `true`.
+La primera línea especifica que es un documento [[etiqueta#< !DOCTYPE html>|HTML5]] y el lenguaje del documento es japonés. La siguiente línea especifica la codificación de caracteres utilizada en el documento como "[[etiqueta#`<meta charset="utf-8">`|UTF-8]]".
 
-Finalmente, el código usa una estructura condicional `if-else` para verificar si la variable `$isError` es `true`. Si es así, se muestra un mensaje de error y un formulario para volver a la página anterior. Si no es así, se muestra un mensaje de bienvenida con el nombre ingresado en el formulario.
+Luego, se vincula un archivo [[CSS(Cascading Style Sheets)|CSS]] (Cascading Style Sheets) llamado "style.css" que se encuentra en la carpeta "css" que esta en una carpeta anterior a la carpeta actual con la ruta "../../css/style.css" para dar estilo al formulario.
 
-El estilo de la página web se incluye a través de una hoja de estilo externa, que se carga en la página con la etiqueta [[CSS|`<link href="../../css/style.css" rel="stylesheet">`]] .
+En el código PHP se encuentra la función "[[función de require_once()|require_once()]]" que se utiliza para incluir un archivo [[función cken()#Util.php|util.php]]" que se encuentra en la ruta "../../lib/util.php". Este archivo contiene funciones para verificar la codificación de los datos del formulario.
+
+Luego, se verifica si los datos enviados en el formulario están en la codificación correcta utilizando la función "[[función cken()| check()]]". Si los datos no están en la codificación correcta, se muestra un mensaje de error con la codificación esperada y se detiene la ejecución del script.
+
+Después de verificar la codificación, los datos del formulario se pasan a la función "[[función es()| es()]]" para escapar cualquier caracter especial HTML y evitar ataques de Cross-Site Scripting (XSS).
+
+Luego, se verifica si se ha recibido un valor para el campo "name" en el formulario y si este valor está vacío. Si no se ha recibido un valor o si el valor está vacío, se establece la variable "isError" en true.
+
+En caso de haber un error, se muestra un mensaje de error en el cuerpo de la página que indica que el nombre del formulario es obligatorio y se presenta un botón para regresar al formulario anterior.
+
+En caso contrario, se muestra un mensaje de bienvenida que incluye el nombre ingresado en el formulario.
+

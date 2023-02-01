@@ -18,4 +18,7 @@
 ![[función mb_check_encoding()]]
 
 # CSS
-![[CSS]]
+![[CSS(Cascading Style Sheets)]]
+
+# require_once()
+![[función de require_once()]]

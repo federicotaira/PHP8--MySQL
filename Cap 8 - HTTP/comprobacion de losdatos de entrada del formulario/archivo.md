@@ -1,2 +1,2 @@
 ![[función cken()#Util.php|Util.php]]
-![[CSS|../../css/style.css]]
+![[CSS(Cascading Style Sheets)|../../css/style.css]]
