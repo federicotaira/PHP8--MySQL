@@ -5,16 +5,17 @@
 		{"id":"45ca0d8ba5de0319","x":-230,"y":-740,"width":379,"height":243,"type":"text","text":"1.  Recopilar un gran conjunto de datos de entrenamiento. GPT se entrena en grandes cantidades de texto para aprender a generar texto coherente y coherente. Es importante utilizar un corpus de datos lo suficientemente grande y diversificado para que el modelo aprenda a generar texto en varios contextos y estilos."},
 		{"id":"0207f4ec185dba6c","x":-229,"y":191,"width":379,"height":174,"type":"text","text":"3.  Seleccionar un modelo de lenguaje previamente entrenado. Puede utilizar un modelo pre-entrenado de GPT o un modelo similar como base para su propio modelo, y continuar entrenándolo con sus propios datos."},
 		{"id":"73de6d41c8691ce7","x":-299,"y":622,"width":404,"height":216,"type":"text","text":"4.  Entrenar el modelo con los datos preprocesados. Utilizando una biblioteca de aprendizaje automático como Tensorflow o Pytorch, puede entrenar su modelo con los datos preprocesados. Es importante elegir los hiperparámetros adecuados para el entrenamiento, como el tamaño del lote, el número de épocas, etc."},
-		{"id":"5d9c1351ba909c21","x":-325,"y":1031,"width":430,"height":164,"type":"text","text":"5.  Evaluar el modelo entrenado. Una vez entrenado el modelo, es importante evaluarlo para verificar su rendimiento. Puede utilizar métricas como el puntaje de perplexidad o el puntaje de coherencia para evaluar el rendimiento del modelo."},
-		{"id":"a1c60d213c7788aa","x":-325,"y":1394,"width":475,"height":159,"type":"text","text":"6.  Utilizar el modelo para generar texto. Una vez que su modelo ha sido entrenado y evaluado, está listo para usarlo para generar texto. Utilice una biblioteca de procesamiento de lenguaje natural para generar texto a partir de una semilla o un contexto dado."},
 		{"id":"dbf6e1cc5ba7377f","x":586,"y":795,"width":400,"height":400,"type":"file","file":"Chatbot GPT/Entrenar el modelo con los datos preprocesados.md"},
 		{"id":"58e5a278ca44ac92","x":-781,"y":-609,"width":400,"height":974,"type":"file","file":"Chatbot GPT/ChatbotGPT RoadMap.md"},
-		{"id":"d2234a5d348dd55e","x":1796,"y":1195,"width":734,"height":589,"type":"file","file":"Chatbot GPT/Configurar el acceso a una GPU.md"},
-		{"id":"efc01ef3b5dcf554","x":1796,"y":1784,"width":734,"height":976,"type":"file","file":"Chatbot GPT/Configurar un sistema de versionado.md"},
 		{"id":"c34c0cea3316024e","x":464,"y":-908,"width":456,"height":400,"type":"file","file":"Chatbot GPT/Recopilar un gran conjunto de datos de entrenamiento.md"},
 		{"id":"54777594660777a5","x":1221,"y":-971,"width":400,"height":400,"type":"file","file":"Chatbot GPT/corpus de datos.md"},
 		{"id":"1f5e5c09ccc83356","x":1116,"y":-304,"width":400,"height":400,"type":"file","file":"Chatbot GPT/Lista de las tareas de preprocesamiento de texto más comunes.md"},
-		{"id":"0bbc6d830be57c28","x":1796,"y":482,"width":616,"height":713,"type":"file","file":"Chatbot GPT/Instalar las dependencias necesarias.md"}
+		{"id":"5d9c1351ba909c21","x":-325,"y":1031,"width":430,"height":164,"type":"text","text":"5.  Evaluar el modelo entrenado. Una vez entrenado el modelo, es importante evaluarlo para verificar su rendimiento. Puede utilizar métricas como el puntaje de perplexidad o el puntaje de coherencia para evaluar el rendimiento del modelo."},
+		{"id":"a1c60d213c7788aa","x":-325,"y":1394,"width":475,"height":159,"type":"text","text":"6.  Utilizar el modelo para generar texto. Una vez que su modelo ha sido entrenado y evaluado, está listo para usarlo para generar texto. Utilice una biblioteca de procesamiento de lenguaje natural para generar texto a partir de una semilla o un contexto dado."},
+		{"id":"d2234a5d348dd55e","x":1796,"y":1195,"width":734,"height":589,"type":"file","file":"Chatbot GPT/Configurar el acceso a una GPU.md"},
+		{"id":"efc01ef3b5dcf554","x":1796,"y":1784,"width":734,"height":976,"type":"file","file":"Chatbot GPT/Configurar un sistema de versionado.md"},
+		{"id":"0bbc6d830be57c28","x":1796,"y":482,"width":616,"height":713,"type":"file","file":"Chatbot GPT/Instalar las dependencias necesarias.md"},
+		{"id":"4917e851892a46a2","x":1641,"y":-279,"width":400,"height":400,"type":"file","file":"Chatbot GPT/Cómo activar algunas de las tareas de preprocesamiento mencionadas en Python utilizando NLTK.md"}
 	],
 	"edges":[
 		{"id":"d79808a615a8b90e","fromNode":"45ca0d8ba5de0319","fromSide":"bottom","toNode":"f64e7b20e317dfe0","toSide":"top"},
@@ -29,6 +30,7 @@
 		{"id":"0a49755538233d24","fromNode":"dbf6e1cc5ba7377f","fromSide":"right","toNode":"efc01ef3b5dcf554","toSide":"left"},
 		{"id":"110795e4ac85165c","fromNode":"45ca0d8ba5de0319","fromSide":"right","toNode":"c34c0cea3316024e","toSide":"left"},
 		{"id":"5ee472cac2215b55","fromNode":"c34c0cea3316024e","fromSide":"right","toNode":"54777594660777a5","toSide":"left"},
-		{"id":"11d470588874f54e","fromNode":"6d2797801f314d25","fromSide":"right","toNode":"1f5e5c09ccc83356","toSide":"left"}
+		{"id":"11d470588874f54e","fromNode":"6d2797801f314d25","fromSide":"right","toNode":"1f5e5c09ccc83356","toSide":"left"},
+		{"id":"545c89daa265a2dd","fromNode":"1f5e5c09ccc83356","fromSide":"right","toNode":"4917e851892a46a2","toSide":"left"}
 	]
 }

@@ -4,18 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "9e7c0bab02b47bdd",
+        "id": "2bd10e3f00b83887",
         "type": "tabs",
         "children": [
           {
-            "id": "6b9b9b077185144f",
+            "id": "c442693899e39a8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chatbot GPT/Instalar las dependencias necesarias.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0289977d63cf405c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chatbot GPT/Entrenar el modelo con los datos preprocesados.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "afe9f0803e6a713b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chatbot GPT/Configurar el acceso a una GPU.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fd67762c19a870c5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Chatbot GPT/ANEXOS/Pasted image 20230125162633.png"
+              }
+            }
+          },
+          {
+            "id": "bdaeaba655dc30e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chatbot GPT/Cómo activar algunas de las tareas de preprocesamiento mencionadas en Python utilizando NLTK.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chatbot GPT/Configurar el acceso a una GPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chatbot GPT/Configurar el acceso a una GPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chatbot GPT/Configurar el acceso a una GPU.md"
+              }
             }
           },
           {
@@ -141,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,17 +216,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b9b9b077185144f",
+  "active": "afe9f0803e6a713b",
   "lastOpenFiles": [
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 9- Diferentes formas de usos/9-2 Usos de casillas de verificacion/Usar casilla de verificacion.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Funciones PHP.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Conceptos basico de HTTP/Conceptos Basicos HTTP.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Conceptos basico de HTTP/Solicitud y Respuestas HTTP.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Conceptos basico de HTTP/Solicitud HTTP.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Validacion de entrada/Validación de entrada.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Validacion de entrada/función  array_map().md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Validacion de entrada/función de PHP.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 9- Diferentes formas de usos/9-1 Uso de botones de opciones/Usar botones de opcion.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Solicitud y Respuestas HTTP.md"
+    "Chatbot GPT/Entrenar el modelo con los datos preprocesados.md",
+    "Chatbot GPT/ChatbotGPT RoadMap.md",
+    "Chatbot GPT/Creacion de un nuevo ambiente en conda.md",
+    "Chatbot GPT/TensorFlow.md",
+    "Chatbot GPT/Seleccionar un modelo de lenguaje previamente entrenado.md",
+    "Chatbot GPT/Recopilar un gran conjunto de datos de entrenamiento.md",
+    "Chatbot GPT/PyTorch.md",
+    "Chatbot GPT/Preprocesar los datos de entrenamiento.md",
+    "Chatbot GPT/Listas de Corpus de datos.md",
+    "Chatbot GPT/Lista de las tareas de preprocesamiento de texto más comunes.md"
   ]
 }

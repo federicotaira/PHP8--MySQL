@@ -1,7 +1,11 @@
 
 ## [[Tokenización]]:
-![[100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/ANEXOS/Pasted image 20230125100335.png]]
 
-## [[Limpieza de Textos]]:![[100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/ANEXOS/Pasted image 20230125100400.png]]
-##  [[Eliminación de Stopwords]]:![[100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/ANEXOS/Pasted image 20230125100419.png]]
-## [[Lematización]]:![[100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/ANEXOS/Pasted image 20230125100443.png]]
+![[Pasted image 20230125100335.png]]
+## [[Limpieza de Textos]]:
+![[Pasted image 20230125100400.png]]
+##  [[Eliminación de Stopwords]]:
+![[Pasted image 20230125100419.png]]
+## [[Lematización]]:
+
+![[Pasted image 20230125100443.png]]
